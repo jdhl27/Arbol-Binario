@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArbolBinario.iml" filepath="$PROJECT_DIR$/.idea/ArbolBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Crud_python_flask/.idea/CRUD_Flask.iml" filepath="$PROJECT_DIR$/../../Crud_python_flask/.idea/CRUD_Flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CrudListas/.idea/CrudListas.iml" filepath="$PROJECT_DIR$/../CrudListas/.idea/CrudListas.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Python/.idea/Python.iml" filepath="$USER_HOME$/PycharmProjects/Python/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Triage/.idea/Triage.iml" filepath="$PROJECT_DIR$/../Triage/.idea/Triage.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/ejercicios/.idea/ejercicios.iml" filepath="$USER_HOME$/Desktop/ejercicios/.idea/ejercicios.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/final/.idea/final.iml" filepath="$USER_HOME$/Desktop/final/.idea/final.iml" />
+    </modules>
+  </component>
+</project>

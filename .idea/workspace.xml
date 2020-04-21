@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="776c945e-b39a-45e9-abab-d38b9906886a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Crud_python_flask/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Crud_python_flask/App.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crud_python_flask/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Crud_python_flask/templates/layout.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Python/Gauss_Jordan.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Python/Gauss_Jordan.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Crud_python_flask" />
+  </component>
+  <component name="ProjectId" id="1StfxcuQvKZ0WolqbWWIwWZtp2Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/triaje" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\indep\Documents\Universidad\Segundo Semestre\Algoritmos y procesamiento de información\Listas\ArbolBinario" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\indep\Desktop\final" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.grafica">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRUD_Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Crud_python_flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Crud_python_flask/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grafica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ArbolBinario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHON" value="C:\Users\indep\AppData\Local\Programs\Python\Python37\python.exe" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grafica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vistaGrafica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Triage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\indep\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Triage" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Triage/vistaGrafica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.App" />
+      <item itemvalue="Python.grafica" />
+      <item itemvalue="Python.vistaGrafica" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.grafica" />
+        <item itemvalue="Python.vistaGrafica" />
+        <item itemvalue="Python.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="776c945e-b39a-45e9-abab-d38b9906886a" name="Default Changelist" comment="" />
+      <created>1572388059572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572388059572</updated>
+      <workItem from="1572388061238" duration="24363000" />
+      <workItem from="1572439698101" duration="15556000" />
+      <workItem from="1572457486144" duration="631000" />
+      <workItem from="1572461363888" duration="307000" />
+      <workItem from="1572475175915" duration="11103000" />
+      <workItem from="1572530443386" duration="6355000" />
+      <workItem from="1572545905769" duration="1716000" />
+      <workItem from="1572558647793" duration="2229000" />
+      <workItem from="1572658251198" duration="3158000" />
+      <workItem from="1572911129038" duration="4299000" />
+      <workItem from="1573013374377" duration="797000" />
+      <workItem from="1573141627411" duration="2105000" />
+      <workItem from="1573268747380" duration="2115000" />
+      <workItem from="1573355615900" duration="114000" />
+      <workItem from="1573355911294" duration="11076000" />
+      <workItem from="1574187612243" duration="3832000" />
+      <workItem from="1574197390712" duration="601000" />
+      <workItem from="1574200894873" duration="2500000" />
+      <workItem from="1574459009675" duration="17576000" />
+      <workItem from="1581687811751" duration="325000" />
+      <workItem from="1582377616628" duration="1748000" />
+      <workItem from="1583109448062" duration="151000" />
+      <workItem from="1587153814298" duration="92000" />
+      <workItem from="1587447167131" duration="2664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/Python/Gauss_Jordan.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/Python/Gauss_Jordan.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ArbolBinario$App.coverage" NAME="App Coverage Results" MODIFIED="1582378102911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Crud_python_flask" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$grafica.coverage" NAME="grafica Coverage Results" MODIFIED="1587449969813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio14.coverage" NAME="ejercicio14 Coverage Results" MODIFIED="1574473629922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio11.coverage" NAME="ejercicio11 Coverage Results" MODIFIED="1574472650708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio1.coverage" NAME="ejercicio1 Coverage Results" MODIFIED="1574191177197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$pruebaGrafica.coverage" NAME="pruebaGrafica Coverage Results" MODIFIED="1574189083334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio10.coverage" NAME="ejercicio10 Coverage Results" MODIFIED="1574472451008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio13.coverage" NAME="ejercicio13 Coverage Results" MODIFIED="1574475411538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio9.coverage" NAME="ejercicio9 Coverage Results" MODIFIED="1574471714763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio6.coverage" NAME="ejercicio6 Coverage Results" MODIFIED="1574466106007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$Triaje.coverage" NAME="Triaje Coverage Results" MODIFIED="1572534526267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Taller Triaje Luis M/vista" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio2.coverage" NAME="ejercicio2 Coverage Results" MODIFIED="1574461263643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$vistaGrafica.coverage" NAME="vistaGrafica Coverage Results" MODIFIED="1587448192527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Triage" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio8.coverage" NAME="ejercicio8 Coverage Results" MODIFIED="1574469402776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$promedio.coverage" NAME="promedio Coverage Results" MODIFIED="1574203333893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Triage" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio5.coverage" NAME="ejercicio5 Coverage Results" MODIFIED="1574465242167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$arbolBinario.coverage" NAME="arbolBinario Coverage Results" MODIFIED="1572540282848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$Gauss_Jordan.coverage" NAME="Gauss_Jordan Coverage Results" MODIFIED="1572929322781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Python" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio4.coverage" NAME="ejercicio4 Coverage Results" MODIFIED="1574464847365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$grafica__1_.coverage" NAME="grafica (1) Coverage Results" MODIFIED="1572540333139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CrudListas" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$ejercicio12.coverage" NAME="ejercicio12 Coverage Results" MODIFIED="1574477956885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ejercicios" />
+    <SUITE FILE_PATH="coverage/ArbolBinario$pruebaListasDobles.coverage" NAME="pruebaListasDobles Coverage Results" MODIFIED="1573142678995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/final" />
+  </component>
+</project>
